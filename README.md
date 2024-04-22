@@ -1,1 +1,2 @@
-# PROEX
+# ProEx
+Professional Exchange
